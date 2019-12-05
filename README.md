@@ -15,8 +15,8 @@ Number of Instances: 30000
 
 Number of Features: 24
 
-Python Version: 3.7.3
-scikit-learn==0.21.3
-matplotlib==3.1.1
-pandas==0.25.0
+Python Version: 3.7.3 <br>
+scikit-learn==0.21.3 <br>
+matplotlib==3.1.1 <br>
+pandas==0.25.0 <br>
 numpy==1.17.1
